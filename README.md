@@ -6,9 +6,9 @@ Technologies Used:
   CSS3
 Usage:
 
-   # Clone the repository.
-   # Open index.html in your web browser to view the Amazon clone website.
-   # Explore product listings, search for products, and navigate through different categories.
+    Clone the repository.
+    Open index.html in your web browser to view the Amazon clone website.
+    Explore product listings, search for products, and navigate through different categories.
 
 Contributing:
 Contributions are welcome! Fork the repository and submit pull requests with your changes.
